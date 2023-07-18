@@ -19,8 +19,8 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=luluHyggeWOW&repo=Huixiao)](https://github.com/luluHyggeWOW/Huixiao.git)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=luluHyggeWOW&repo=jzbd-fe)](https://github.com/luluHyggeWOW/jzbd-fe.git)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=luluHyggeWOW&repo=guigu-backstage)](https://github.com/luluHyggeWOW/guigu-backstage.git)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=luluHyggeWOW&repo=/guigu-ShangYT)](https://github.com/luluHyggeWOW//guigu-ShangYT.git)
-<img align="right"  src="./images/code.png">
+[![](https://github-readme-stats.vercel.app/api/pin/?username=luluHyggeWOW&repo=guigu-ShangYT)](https://github.com/luluHyggeWOW/guigu-ShangYT.git)
+<img align="right"  src="./images/code.gif">
 <br><br><br>
 
 
