@@ -16,7 +16,7 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=luluHyggeWOW&repo=mp4To4K-rust)](https://github.com/luluHyggeWOW/mp4To4K-rust)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=luluHyggeWOW&repo=Huixiao)](https://github.com/luluHyggeWOW/Huixiao.git)
 <br><br><br>
 
 ### Github 活跃度
