@@ -12,15 +12,15 @@
 <a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
 <a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
-<a href="https://element-plus.org/zh-CN/"><code><img height="20" src="./images/element plus.png"></code></a>
+<a href="https://element-plus.org/zh-CN/"><code><img height="20" src="./images/elementplus.svg"></code></a>
 
 ### 开源项目
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=luluHyggeWOW&repo=Huixiao)](https://github.com/luluHyggeWOW/Huixiao.git)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=luluHyggeWOW&repo=jzbd-fe)](https://github.com/luluHyggeWOW/jzbd-fe.git)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=luluHyggeWOW&repo=Huixiao-backstage)](https://github.com/luluHyggeWOW/Huixiao-backstage.git)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=luluHyggeWOW&repo=guigu-backstage)](https://github.com/luluHyggeWOW/guigu-backstage.git)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=luluHyggeWOW&repo=guigu-ShangYT)](https://github.com/luluHyggeWOW/guigu-ShangYT.git)
-<img align="right"  src="./images/code.gif">
 <br><br><br>
 
 
