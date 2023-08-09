@@ -26,8 +26,8 @@
 
 ### Github 活跃度
 
-<!-- [![](https://activity-graph.herokuapp.com/graph?username=luluHyggeWOW&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![luluHyggeWOW's github stats](https://github-readme-stats.vercel.app/api?username=luluHyggeWOW&show_icons=true&theme=vue) -->
+[![](https://activity-graph.herokuapp.com/graph?username=luluHyggeWOW&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![luluHyggeWOW's github stats](https://github-readme-stats.vercel.app/api?username=luluHyggeWOW&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luluHyggeWOW&langs_count=6)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luluHyggeWOW&langs_count=6) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luluHyggeWOW&layout=compact&langs_count=6)
